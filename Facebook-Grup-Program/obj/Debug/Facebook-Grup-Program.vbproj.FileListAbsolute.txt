@@ -1,0 +1,11 @@
+c:\users\software\documents\visual studio 2012\Projects\Facebook-Grup-Program\Facebook-Grup-Program\bin\Debug\Facebook-Grup-Program.exe.config
+c:\users\software\documents\visual studio 2012\Projects\Facebook-Grup-Program\Facebook-Grup-Program\bin\Debug\Facebook-Grup-Program.exe
+c:\users\software\documents\visual studio 2012\Projects\Facebook-Grup-Program\Facebook-Grup-Program\bin\Debug\Facebook-Grup-Program.pdb
+c:\users\software\documents\visual studio 2012\Projects\Facebook-Grup-Program\Facebook-Grup-Program\bin\Debug\Facebook-Grup-Program.xml
+c:\users\software\documents\visual studio 2012\Projects\Facebook-Grup-Program\Facebook-Grup-Program\obj\Debug\Facebook_Grup_Program.Form1.resources
+c:\users\software\documents\visual studio 2012\Projects\Facebook-Grup-Program\Facebook-Grup-Program\obj\Debug\Facebook_Grup_Program.Resources.resources
+c:\users\software\documents\visual studio 2012\Projects\Facebook-Grup-Program\Facebook-Grup-Program\obj\Debug\Facebook-Grup-Program.vbproj.GenerateResource.Cache
+c:\users\software\documents\visual studio 2012\Projects\Facebook-Grup-Program\Facebook-Grup-Program\obj\Debug\Facebook-Grup-Program.exe
+c:\users\software\documents\visual studio 2012\Projects\Facebook-Grup-Program\Facebook-Grup-Program\obj\Debug\Facebook-Grup-Program.xml
+c:\users\software\documents\visual studio 2012\Projects\Facebook-Grup-Program\Facebook-Grup-Program\obj\Debug\Facebook-Grup-Program.pdb
+C:\Users\Software\documents\visual studio 2012\Projects\Facebook-Grup-Program\Facebook-Grup-Program\obj\Debug\Facebook_Grup_Program.Facebook_Grup.resources
